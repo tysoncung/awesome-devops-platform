@@ -29,7 +29,7 @@ Platform Engineering is the discipline of designing and building toolchains and 
 ### Books & Guides
 - [Platform Engineering on AWS](https://www.oreilly.com/library/view/platform-engineering-on/9781098141578/) - Building robust cloud platforms using AWS services
 - [Team Topologies](https://teamtopologies.com/) - Organizing business and technology teams for fast flow
-- [Platform Engineering Fundamentals](https://platformengineering.org/fundamentals) - Certification program and comprehensive guide
+- [Platform Engineering Fundamentals](https://university.platformengineering.org/) - Certification program and comprehensive guide
 - [Internal Developer Platforms Guide](https://internaldeveloperplatform.org/) - Comprehensive resource on building IDPs
 
 ### Articles & Papers
@@ -194,7 +194,7 @@ Platform Engineering is the discipline of designing and building toolchains and 
 ### Secrets Management
 - [HashiCorp Vault](https://www.vaultproject.io/) - Secrets and encryption management
 - [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/) - Secrets management for AWS
-- [Azure Key Vault](https://azure.microsoft.com/en-us/services/key-vault/) - Secrets management for Azure
+- [Azure Key Vault](https://azure.microsoft.com/en-us/products/key-vault/) - Secrets management for Azure
 - [Sealed Secrets](https://sealed-secrets.netlify.app/) - Kubernetes controller for sealed secrets
 - [External Secrets Operator](https://external-secrets.io/) - Integrate external secret management systems
 
@@ -261,7 +261,7 @@ Platform Engineering is the discipline of designing and building toolchains and 
 
 ### Reference Architectures
 - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/) - Best practices for cloud architectures
-- [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/) - Azure reference architectures
+- [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/) - Azure reference architectures
 - [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework) - GCP best practices
 - [CNCF Cloud Native Trail Map](https://github.com/cncf/trailmap) - Path to cloud native adoption
 
@@ -280,20 +280,18 @@ Platform Engineering is the discipline of designing and building toolchains and 
 ## Learning Resources
 
 ### Courses & Certifications
-- [Platform Engineering University](https://platformengineering.org/courses) - Comprehensive platform engineering courses
-- [Platform Engineering Certified Practitioner](https://platformengineering.org/fundamentals) - Official certification program
+- [Platform Engineering University](https://university.platformengineering.org/) - Comprehensive platform engineering courses
 - [CNCF Certifications](https://www.cncf.io/certification/) - Cloud native certifications
 - [AWS Certifications](https://aws.amazon.com/certification/) - AWS cloud certifications
 - [DevOps Institute Certifications](https://www.devopsinstitute.com/) - DevOps certifications
 
 ### Tutorials & Labs
-- [Katacoda](https://www.katacoda.com/) - Interactive learning platform
 - [KillerCoda](https://killercoda.com/) - Hands-on cloud native scenarios
-- [Play with Kubernetes](https://labs.play-with-k8s.com/) - Kubernetes playground
+- [Play with Kubernetes](https://killercoda.com/playgrounds/scenario/kubernetes) - Kubernetes playground on KillerCoda
 - [Instruqt](https://instruqt.com/) - Hands-on virtual IT labs
 
 ### Podcasts
-- [Platform Engineering Podcast](https://podcast.platformengineering.org/) - Insights from platform engineering leaders
+- [Platform Engineering Podcast](https://www.youtube.com/@PlatformEngineering/podcasts) - Insights from platform engineering leaders
 - [Kubernetes Podcast](https://kubernetespodcast.com/) - Weekly news and interviews
 - [DevOps Paradox](https://www.devopsparadox.com/) - DevOps discussions
 - [The POPCAST](https://popcast-d9f7b6dc.simplecast.com/) - Platform engineering stories
@@ -319,7 +317,7 @@ Platform Engineering is the discipline of designing and building toolchains and 
 - [SREcon](https://www.usenix.org/conferences/byname/srecon) - Site reliability engineering conference
 
 ### Slack Communities
-- [Platform Engineering Slack](https://platformengineering.org/slack) - Platform engineering discussions
+- [Platform Engineering Community](https://platformengineering.org/) - Join the platform engineering community
 - [Kubernetes Slack](https://kubernetes.slack.com/) - Kubernetes community
 - [DevOps Chat](https://devopschat.co/) - DevOps professionals community
 - [SRE Community Slack](https://sre-community.slack.com/) - SRE discussions
