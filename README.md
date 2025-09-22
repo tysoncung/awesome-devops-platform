@@ -29,12 +29,13 @@ Platform Engineering is the discipline of designing and building toolchains and 
 ### Books & Guides
 - [Platform Engineering on AWS](https://www.oreilly.com/library/view/platform-engineering-on/9781098141578/) - Building robust cloud platforms using AWS services
 - [Team Topologies](https://teamtopologies.com/) - Organizing business and technology teams for fast flow
-- [The Platform Engineering Guide](https://platformengineering.org/guide) - Comprehensive guide from the Platform Engineering community
+- [Platform Engineering Fundamentals](https://platformengineering.org/fundamentals) - Certification program and comprehensive guide
+- [Internal Developer Platforms Guide](https://internaldeveloperplatform.org/) - Comprehensive resource on building IDPs
 
 ### Articles & Papers
 - [What is Platform Engineering?](https://platformengineering.org/blog/what-is-platform-engineering) - Definition and principles
-- [2024 State of Platform Engineering Report](https://platformengineering.org/report) - Industry trends and insights
-- [Platform Engineering Maturity Model](https://platformengineering.org/maturity-model) - Assess your platform engineering journey
+- [Platform Engineering Blog](https://platformengineering.org/blog) - Latest articles and industry insights
+- [Platform Tooling Landscape](https://platformengineering.org/platform-tooling) - Guide to choosing the right tools for your IDP
 
 ## Internal Developer Platforms (IDPs)
 
@@ -271,7 +272,7 @@ Platform Engineering is the discipline of designing and building toolchains and 
 - [Backstage Software Templates](https://backstage.io/docs/features/software-templates/) - Scaffolding for services
 
 ### Platform Examples
-- [Internal Developer Platform Reference](https://internaldeveloperplatform.org/reference-architectures/) - Reference architectures
+- [Internal Developer Platform Examples](https://internaldeveloperplatform.org/) - Reference architectures and examples
 - [Kubernetes Examples](https://github.com/kubernetes/examples) - Kubernetes application examples
 - [AWS CDK Examples](https://github.com/aws-samples/aws-cdk-examples) - CDK code examples
 - [Terraform Examples](https://github.com/hashicorp/terraform-guides) - Terraform patterns and practices
@@ -279,7 +280,8 @@ Platform Engineering is the discipline of designing and building toolchains and 
 ## Learning Resources
 
 ### Courses & Certifications
-- [Platform Engineering Bootcamp](https://platformengineering.org/bootcamp) - Comprehensive platform engineering course
+- [Platform Engineering University](https://platformengineering.org/courses) - Comprehensive platform engineering courses
+- [Platform Engineering Certified Practitioner](https://platformengineering.org/fundamentals) - Official certification program
 - [CNCF Certifications](https://www.cncf.io/certification/) - Cloud native certifications
 - [AWS Certifications](https://aws.amazon.com/certification/) - AWS cloud certifications
 - [DevOps Institute Certifications](https://www.devopsinstitute.com/) - DevOps certifications
@@ -291,7 +293,7 @@ Platform Engineering is the discipline of designing and building toolchains and 
 - [Instruqt](https://instruqt.com/) - Hands-on virtual IT labs
 
 ### Podcasts
-- [The Platform Engineering Podcast](https://platformengineering.org/podcast) - Insights from platform engineering leaders
+- [Platform Engineering Podcast](https://podcast.platformengineering.org/) - Insights from platform engineering leaders
 - [Kubernetes Podcast](https://kubernetespodcast.com/) - Weekly news and interviews
 - [DevOps Paradox](https://www.devopsparadox.com/) - DevOps discussions
 - [The POPCAST](https://popcast-d9f7b6dc.simplecast.com/) - Platform engineering stories
