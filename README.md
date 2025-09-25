@@ -27,7 +27,7 @@ Platform Engineering is the discipline of designing and building toolchains and 
 ## Platform Engineering Fundamentals
 
 ### Books & Guides
-- [Platform Engineering on AWS](https://www.oreilly.com/library/view/platform-engineering-on/9781098141578/) - Building robust cloud platforms using AWS services.
+- [Platform Engineering on AWS](https://www.oreilly.com/library/view/platform-engineering/9781098141578/) - Building robust cloud platforms using AWS services.
 - [Team Topologies](https://teamtopologies.com/) - Organizing business and technology teams for fast flow.
 - [Platform Engineering Fundamentals](https://university.platformengineering.org/) - Certification program and comprehensive guide.
 - [Internal Developer Platforms Guide](https://internaldeveloperplatform.org/) - Comprehensive resource on building IDPs.
