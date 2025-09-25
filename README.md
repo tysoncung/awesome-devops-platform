@@ -2,7 +2,7 @@
 
 > A curated list of awesome DevOps Platform Engineering tools, practices, and resources for building modern cloud-native infrastructure and developer platforms
 
-Platform Engineering is the discipline of designing and building toolchains and workflows that enable self-service capabilities for software engineering organizations in the cloud-native era. This list focuses on tools and practices that help teams build Internal Developer Platforms (IDPs), implement GitOps, and create golden paths for developers.
+Platform Engineering is the discipline of designing and building toolchains and workflows that enable self-service capabilities for software engineering organisations in the cloud-native era. This list focuses on tools and practices that help teams build Internal Developer Platforms (IDPs), implement GitOps, and create golden paths for developers.
 
 ## Contents
 
@@ -27,8 +27,8 @@ Platform Engineering is the discipline of designing and building toolchains and 
 ## Platform Engineering Fundamentals
 
 ### Books & Guides
-- [Platform Engineering on AWS](https://www.oreilly.com/library/view/platform-engineering/9781098141578/) - Building robust cloud platforms using AWS services.
-- [Team Topologies](https://teamtopologies.com/) - Organizing business and technology teams for fast flow.
+- [Platform Engineering]([https://www.oreilly.com/library/view/platform-engineering/9781098141578/]) - Building robust cloud platforms using AWS services.
+- [Team Topologies](https://teamtopologies.com/) - Organising business and technology teams for fast flow.
 - [Platform Engineering Fundamentals](https://university.platformengineering.org/) - Certification program and comprehensive guide.
 - [Internal Developer Platforms Guide](https://internaldeveloperplatform.org/) - Comprehensive resource on building IDPs.
 
@@ -51,13 +51,13 @@ Platform Engineering is the discipline of designing and building toolchains and 
 
 ### Commercial Platforms
 - [Port](https://www.getport.io/) - Developer portal with self-service actions.
-- [Cortex](https://www.cortex.io/) - Internal developer portal with service catalog.
-- [Configure8](https://www.configure8.io/) - Developer portal and service catalog.
-- [OpsLevel](https://www.opslevel.com/) - Service catalog and developer portal.
+- [Cortex](https://www.cortex.io/) - Internal developer portal with service catalogue.
+- [Configure8](https://www.configure8.io/) - Developer portal and service catalogue.
+- [OpsLevel](https://www.opslevel.com/) - Service catalogue and developer portal.
 
 ## Developer Portals
 
-### Service Catalogs
+### Service Catalogues
 - [Backstage Software Catalog](https://backstage.io/docs/features/software-catalog/) - Centralized system model.
 - [Port Service Catalog](https://www.getport.io/product/service-catalog) - Comprehensive service registry.
 - [ServiceNow Service Catalog](https://www.servicenow.com/) - Enterprise service management.
