@@ -23,8 +23,6 @@ Platform Engineering is the discipline of designing and building toolchains and 
 - [Platform Templates & Blueprints](#platform-templates--blueprints)
 - [Learning Resources](#learning-resources)
 - [Communities](#communities)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Platform Engineering Fundamentals
 
@@ -282,10 +280,10 @@ Platform Engineering is the discipline of designing and building toolchains and 
 ## Learning Resources
 
 ### Courses & Certifications
-- [Platform Engineering University](https://university.platformengineering.org/) - Comprehensive platform engineering courses.
+- [Platform Engineering Academy](https://university.platformengineering.org/courses) - Comprehensive platform engineering courses.
 - [CNCF Certifications](https://www.cncf.io/certification/) - Cloud native certifications.
 - [AWS Certifications](https://aws.amazon.com/certification/) - AWS cloud certifications.
-- [DevOps Institute Certifications](https://www.devopsinstitute.com/) - DevOps certifications.
+- [DevOps Institute Training](https://www.devopsinstitute.com/certifications) - DevOps certifications.
 
 ### Tutorials & Labs
 - [KillerCoda](https://killercoda.com/) - Hands-on cloud native scenarios.
@@ -309,7 +307,7 @@ Platform Engineering is the discipline of designing and building toolchains and 
 ### Organizations
 - [Platform Engineering Community](https://platformengineering.org/) - Global platform engineering community.
 - [CNCF (Cloud Native Computing Foundation)](https://www.cncf.io/) - Cloud native ecosystem.
-- [DevOps Institute](https://www.devopsinstitute.com/) - DevOps community and education.
+- [DevOps Community Hub](https://www.devopsinstitute.com/community) - DevOps community and education.
 - [SRE Community](https://sre.google/) - Site Reliability Engineering community.
 
 ### Conferences
@@ -330,12 +328,3 @@ Platform Engineering is the discipline of designing and building toolchains and 
 - [Stack Overflow DevOps](https://stackoverflow.com/questions/tagged/devops) - Q&A for DevOps.
 - [DevOps.com](https://devops.com/) - DevOps news and articles.
 
-## Contributing
-
-Your contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
