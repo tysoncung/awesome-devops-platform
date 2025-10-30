@@ -297,7 +297,7 @@ Platform Engineering is the discipline of designing and building toolchains and 
 - [The POPCAST](https://popcast-d9f7b6dc.simplecast.com/) - Platform engineering stories.
 
 ### YouTube Channels
-- [Platform Engineering YouTube](https://www.youtube.com/@PlatformEngineering) - Platform engineering content.
+- [Platform Engineering YouTube](https://www.youtube.com/@PlatformEngineering) - Video tutorials and best practices.
 - [CNCF](https://www.youtube.com/@cncf) - Cloud Native Computing Foundation.
 - [DevOps Toolkit](https://www.youtube.com/@DevOpsToolkit) - Viktor Farcic's DevOps content.
 - [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana) - DevOps tutorials.
