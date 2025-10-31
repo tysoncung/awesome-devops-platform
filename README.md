@@ -21,6 +21,10 @@ Platform Engineering is the discipline of designing and building toolchains and 
 - [Multi-Cloud & Hybrid](#multi-cloud--hybrid)
 - [Developer Experience Tools](#developer-experience-tools)
 - [Platform Templates & Blueprints](#platform-templates--blueprints)
+- [Secrets Management](#secrets-management)
+- [Policy as Code](#policy-as-code)
+- [Environment Management](#environment-management)
+- [Platform Metrics & Analytics](#platform-metrics--analytics)
 - [Learning Resources](#learning-resources)
 - [Communities](#communities)
 
@@ -276,6 +280,96 @@ Platform Engineering is the discipline of designing and building toolchains and 
 - [Kubernetes Examples](https://github.com/kubernetes/examples) - Kubernetes application examples.
 - [AWS CDK Examples](https://github.com/aws-samples/aws-cdk-examples) - CDK code examples.
 - [Terraform Examples](https://github.com/hashicorp/terraform-guides) - Terraform patterns and practices.
+
+## Secrets Management
+
+Secure secrets management and encryption for platform infrastructure.
+
+### Secrets Stores
+- [HashiCorp Vault](https://www.vaultproject.io/) - Industry-standard secrets management.
+- [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/) - AWS-native secrets management.
+- [Google Secret Manager](https://cloud.google.com/secret-manager) - GCP secrets management.
+- [Azure Key Vault](https://azure.microsoft.com/en-us/services/key-vault/) - Azure secrets and key management.
+- [Doppler](https://www.doppler.com/) - Universal secrets management platform.
+
+### Kubernetes Secrets
+- [External Secrets Operator](https://external-secrets.io/) - Synchronize external secrets with Kubernetes.
+- [Sealed Secrets](https://sealed-secrets.netlify.app/) - Encrypt secrets in Git.
+- [SOPS](https://github.com/getsops/sops) - Encrypted file storage for Kubernetes.
+- [Kubernetes External Secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems.
+
+### Secret Scanning
+- [GitGuardian](https://www.gitguardian.com/) - Detect secrets in code.
+- [TruffleHog](https://github.com/trufflesecurity/trufflehog) - Find leaked credentials.
+- [detect-secrets](https://github.com/Yelp/detect-secrets) - Prevent secrets from entering codebase.
+- [gitleaks](https://github.com/gitleaks/gitleaks) - SAST tool for detecting secrets.
+
+## Policy as Code
+
+Define and enforce policies for infrastructure, security, and compliance.
+
+### Policy Engines
+- [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) - General-purpose policy engine.
+- [Kyverno](https://kyverno.io/) - Kubernetes-native policy management.
+- [Checkov](https://www.checkov.io/) - Static code analysis for IaC.
+- [jsPolicy](https://www.jspolicy.com/) - JavaScript-based Kubernetes admission control.
+
+### Security Policies
+- [Falco](https://falco.org/) - Cloud-native runtime security.
+- [Polaris](https://www.fairwinds.com/polaris) - Kubernetes best practices validation.
+- [Kubesec](https://kubesec.io/) - Security risk analysis for Kubernetes.
+- [conftest](https://www.conftest.dev/) - Write tests against structured configuration data.
+
+### Compliance Tools
+- [CloudQuery](https://www.cloudquery.io/) - Cloud asset inventory and compliance.
+- [Steampipe](https://steampipe.io/) - Query cloud infrastructure with SQL.
+- [Prowler](https://github.com/prowler-cloud/prowler) - AWS/Azure/GCP security assessments.
+- [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-cloud security auditing.
+
+## Environment Management
+
+Tools for managing development, staging, and production environments.
+
+### Environment Provisioning
+- [Terraform Cloud](https://www.terraform.io/cloud) - Collaborative infrastructure provisioning.
+- [Pulumi Service](https://www.pulumi.com/product/) - Infrastructure provisioning and management.
+- [Crossplane](https://www.crossplane.io/) - Kubernetes-based infrastructure provisioning.
+- [AWS Control Tower](https://aws.amazon.com/controltower/) - Multi-account AWS environment setup.
+
+### Preview Environments
+- [Okteto](https://www.okteto.com/) - Kubernetes development environments.
+- [Garden](https://garden.io/) - Automated Kubernetes development workflows.
+- [Tilt](https://tilt.dev/) - Local Kubernetes development.
+- [DevSpace](https://devspace.sh/) - Accelerate Kubernetes development.
+- [Skaffold](https://skaffold.dev/) - Continuous development for Kubernetes.
+
+### Ephemeral Environments
+- [Shipyard](https://shipyard.build/) - On-demand ephemeral environments.
+- [Uffizzi](https://www.uffizzi.com/) - Ephemeral preview environments.
+- [Release](https://releasehub.com/) - Environment as a service.
+- [Namespace](https://namespace.so/) - Instant cloud environments.
+
+## Platform Metrics & Analytics
+
+Monitor and analyze platform usage, performance, and developer experience.
+
+### Platform Observability
+- [Grafana](https://grafana.com/) - Analytics and monitoring.
+- [Prometheus](https://prometheus.io/) - Metrics collection and alerting.
+- [Datadog](https://www.datadog.com/) - Full-stack observability.
+- [New Relic](https://newrelic.com/) - Application performance monitoring.
+
+### Developer Experience Metrics
+- [DORA Metrics](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance) - Four key DevOps metrics.
+- [Sleuth](https://www.sleuth.io/) - DORA metrics tracking.
+- [LinearB](https://linearb.io/) - Engineering effectiveness metrics.
+- [Haystack](https://www.usehaystack.io/) - Engineering productivity analytics.
+
+### Cost Analytics
+- [Kubecost](https://www.kubecost.com/) - Kubernetes cost monitoring.
+- [Infracost](https://www.infracost.io/) - Cloud cost estimates for IaC.
+- [OpenCost](https://www.opencost.io/) - Open source Kubernetes cost monitoring.
+- [CloudHealth](https://www.cloudhealthtech.com/) - Multi-cloud cost management.
 
 ## Learning Resources
 
