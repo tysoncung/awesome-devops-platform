@@ -25,6 +25,11 @@ Platform Engineering is the discipline of designing and building toolchains and 
 - [Policy as Code](#policy-as-code)
 - [Environment Management](#environment-management)
 - [Platform Metrics & Analytics](#platform-metrics--analytics)
+- [AI & Automation in DevOps](#ai--automation-in-devops)
+- [Multi-Cloud Management](#multi-cloud-management)
+- [Disaster Recovery & Backup](#disaster-recovery--backup)
+- [Team Collaboration & Communication](#team-collaboration--communication)
+- [Developer Experience Tools](#developer-experience-tools)
 - [Learning Resources](#learning-resources)
 - [Communities](#communities)
 
@@ -370,6 +375,119 @@ Monitor and analyze platform usage, performance, and developer experience.
 - [Infracost](https://www.infracost.io/) - Cloud cost estimates for IaC.
 - [OpenCost](https://www.opencost.io/) - Open source Kubernetes cost monitoring.
 - [CloudHealth](https://www.cloudhealthtech.com/) - Multi-cloud cost management.
+
+## AI & Automation in DevOps
+
+Leverage AI and machine learning to automate platform operations and improve developer experience.
+
+### AI-Powered Operations
+- [Datadog AI](https://www.datadog.com/product/ai) - AI-powered monitoring and analytics.
+- [Dynatrace Davis](https://www.dynatrace.com/platform/artificial-intelligence/) - AI engine for automatic problem detection.
+- [New Relic AI](https://newrelic.com/platform/applied-intelligence) - Applied intelligence for DevOps.
+- [Splunk AI](https://www.splunk.com/en_us/solutions/artificial-intelligence.html) - Machine learning for IT operations.
+
+### Automation Platforms
+- [Ansible](https://www.ansible.com/) - IT automation platform.
+- [Terraform Cloud](https://cloud.hashicorp.com/products/terraform) - Infrastructure automation as a service.
+- [Zapier for DevOps](https://zapier.com/) - Workflow automation.
+- [n8n](https://n8n.io/) - Workflow automation platform.
+
+### AIOps Tools
+- [Moogsoft](https://www.moogsoft.com/) - AI-powered observability.
+- [BigPanda](https://www.bigpanda.io/) - Event correlation and automation.
+- [PagerDuty AIOps](https://www.pagerduty.com/platform/aiops/) - Intelligent incident management.
+
+## Multi-Cloud Management
+
+Tools and platforms for managing applications across multiple cloud providers.
+
+### Multi-Cloud Platforms
+- [Crossplane](https://www.crossplane.io/) - Universal control plane for multi-cloud.
+- [Pulumi](https://www.pulumi.com/) - Universal infrastructure as code.
+- [Terraform](https://www.terraform.io/) - Multi-cloud infrastructure automation.
+- [CloudBolt](https://www.cloudbolt.io/) - Hybrid cloud management platform.
+
+### Cloud Cost Management
+- [CloudZero](https://www.cloudzero.com/) - Cloud cost intelligence.
+- [Spot by NetApp](https://spot.io/) - Cloud infrastructure optimization.
+- [Harness Cloud Cost Management](https://www.harness.io/products/cloud-cost) - Automated cost optimization.
+- [Apptio Cloudability](https://www.apptio.com/products/cloudability/) - Financial management for cloud.
+
+### Multi-Cloud Networking
+- [Aviatrix](https://aviatrix.com/) - Multi-cloud network platform.
+- [Alkira](https://www.alkira.com/) - Cloud networking as a service.
+- [Tigera Calico](https://www.tigera.io/) - Cloud-native networking and security.
+
+## Disaster Recovery & Backup
+
+Ensure business continuity with robust backup and disaster recovery solutions.
+
+### Backup Solutions
+- [Velero](https://velero.io/) - Kubernetes backup and migration.
+- [Kasten K10](https://www.kasten.io/) - Kubernetes data management.
+- [Veeam](https://www.veeam.com/) - Backup, recovery, and data management.
+- [Restic](https://restic.net/) - Fast, secure backup program.
+
+### Disaster Recovery
+- [Zerto](https://www.zerto.com/) - Cloud data management and protection.
+- [VMware Site Recovery Manager](https://www.vmware.com/products/site-recovery-manager.html) - Disaster recovery automation.
+- [AWS Backup](https://aws.amazon.com/backup/) - Centralized backup for AWS.
+- [Azure Site Recovery](https://azure.microsoft.com/en-us/products/site-recovery/) - DR as a service.
+
+### Data Replication
+- [Portworx](https://portworx.com/) - Kubernetes data platform.
+- [Longhorn](https://longhorn.io/) - Cloud-native distributed storage.
+- [Rook](https://rook.io/) - Storage orchestration for Kubernetes.
+
+## Team Collaboration & Communication
+
+Tools for improving team collaboration and internal developer communication.
+
+### Developer Portals
+- [Spotify Backstage](https://backstage.io/) - Open platform for building developer portals.
+- [Port](https://www.getport.io/) - Developer portal builder.
+- [Cortex](https://www.cortex.io/) - Internal developer portal platform.
+- [OpsLevel](https://www.opslevel.com/) - Service catalog and developer portal.
+
+### Documentation Platforms
+- [Docusaurus](https://docusaurus.io/) - Documentation website generator.
+- [GitBook](https://www.gitbook.com/) - Documentation platform.
+- [ReadMe](https://readme.com/) - API documentation and developer hubs.
+- [MkDocs](https://www.mkdocs.org/) - Fast, simple static site generator.
+
+### Team Communication
+- [Slack](https://slack.com/) - Team messaging platform.
+- [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) - Unified communication platform.
+- [Mattermost](https://mattermost.com/) - Open-source team collaboration.
+- [Discord](https://discord.com/) - Voice, video, and text communication.
+
+### Knowledge Management
+- [Notion](https://www.notion.so/) - All-in-one workspace.
+- [Confluence](https://www.atlassian.com/software/confluence) - Team collaboration software.
+- [Coda](https://coda.io/) - All-in-one doc for teams.
+- [Obsidian](https://obsidian.md/) - Knowledge base on local markdown files.
+
+## Developer Experience Tools
+
+Enhance developer productivity and satisfaction with specialized tools.
+
+### Local Development
+- [DevPod](https://devpod.sh/) - Open source development environments.
+- [DevSpace](https://devspace.sh/) - Local Kubernetes development.
+- [Skaffold](https://skaffold.dev/) - Continuous development for Kubernetes.
+- [Tilt](https://tilt.dev/) - Multi-service development environment.
+
+### Remote Development
+- [GitHub Codespaces](https://github.com/features/codespaces) - Cloud development environments.
+- [Gitpod](https://www.gitpod.io/) - Cloud development environment.
+- [Coder](https://coder.com/) - Self-hosted remote development.
+- [Code-Server](https://github.com/coder/code-server) - VS Code in the browser.
+
+### Testing & Quality
+- [Testcontainers](https://www.testcontainers.org/) - Integration testing with containers.
+- [LocalStack](https://localstack.cloud/) - Local AWS cloud stack.
+- [k6](https://k6.io/) - Load testing for engineering teams.
+- [Cypress](https://www.cypress.io/) - End-to-end testing framework.
 
 ## Learning Resources
 
