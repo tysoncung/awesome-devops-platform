@@ -235,6 +235,7 @@ Platform Engineering is the discipline of designing and building toolchains and 
 - [Azure Arc](https://azure.microsoft.com/en-us/services/azure-arc/) - Multi-cloud and edge management.
 - [AWS Outposts](https://aws.amazon.com/outposts/) - AWS infrastructure on-premises.
 - [Rancher](https://rancher.com/) - Multi-cluster Kubernetes management.
+- [KubeStellar Console](https://github.com/kubestellar/console) - CNCF Sandbox AI-powered multi-cluster Kubernetes dashboard with real-time observability, GitOps deploy workflows, and 160+ CNCF ecosystem integration cards across edge and cloud clusters.
 - [VMware Tanzu](https://tanzu.vmware.com/) - Multi-cloud application platform.
 
 ### Cloud Abstraction
