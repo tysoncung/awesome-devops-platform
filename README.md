@@ -514,10 +514,14 @@ Enhance developer productivity and satisfaction with specialized tools.
 - [DevOps Toolkit](https://www.youtube.com/@DevOpsToolkit) - Viktor Farcic's DevOps content.
 - [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana) - DevOps tutorials.
 
+### Newsletters
+- [Platform Weekly](https://platformweekly.com/) - Weekly newsletter on platform engineering news and trends.
+
 ## Communities
 
 ### Organizations
 - [Platform Engineering Community](https://platformengineering.org/) - Global platform engineering community.
+- [Weave Intelligence](https://weaveintelligence.io/) - Research and analyst firm covering the platform engineering landscape.
 - [CNCF (Cloud Native Computing Foundation)](https://www.cncf.io/) - Cloud native ecosystem.
 - [DevOps Community Hub](https://www.devopsinstitute.com/community) - DevOps community and education.
 - [SRE Community](https://sre.google/) - Site Reliability Engineering community.
