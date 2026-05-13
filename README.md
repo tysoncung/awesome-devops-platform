@@ -363,6 +363,8 @@ Monitor and analyze platform usage, performance, and developer experience.
 - [Prometheus](https://prometheus.io/) - Metrics collection and alerting.
 - [Datadog](https://www.datadog.com/) - Full-stack observability.
 - [New Relic](https://newrelic.com/) - Application performance monitoring.
+- [Middleware](https://middleware.io/) - Full-stack observability and monitoring with AI SRE Agent.
+
 
 ### Developer Experience Metrics
 - [DORA Metrics](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance) - Four key DevOps metrics.
