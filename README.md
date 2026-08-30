@@ -391,6 +391,7 @@ Leverage AI and machine learning to automate platform operations and improve dev
 - [Terraform Cloud](https://cloud.hashicorp.com/products/terraform) - Infrastructure automation as a service.
 - [Zapier for DevOps](https://zapier.com/) - Workflow automation.
 - [n8n](https://n8n.io/) - Workflow automation platform.
+- [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) - Local-first agent runtime and MCP bridge for auditable sessions, sandboxed execution, approvals, and Docker/Kubernetes-backed DevOps workflows.
 
 ### AIOps Tools
 - [Moogsoft](https://www.moogsoft.com/) - AI-powered observability.
@@ -539,4 +540,3 @@ Enhance developer productivity and satisfaction with specialized tools.
 - [r/devops](https://www.reddit.com/r/devops/) - DevOps subreddit.
 - [Stack Overflow DevOps](https://stackoverflow.com/questions/tagged/devops) - Q&A for DevOps.
 - [DevOps.com](https://devops.com/) - DevOps news and articles.
-
