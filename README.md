@@ -484,6 +484,7 @@ Enhance developer productivity and satisfaction with specialized tools.
 - [Code-Server](https://github.com/coder/code-server) - VS Code in the browser.
 
 ### Testing & Quality
+- [Agent QA](https://github.com/vostride/agent-qa) - CLI and dashboard for natural-language end-to-end tests of web, Android, and iOS applications, with reusable execution memory and MCP access (source-available, FSL-1.1-ALv2).
 - [Testcontainers](https://www.testcontainers.org/) - Integration testing with containers.
 - [LocalStack](https://localstack.cloud/) - Local AWS cloud stack.
 - [k6](https://k6.io/) - Load testing for engineering teams.
