@@ -53,6 +53,7 @@ Platform Engineering is the discipline of designing and building toolchains and 
 - [Humanitec Platform Orchestrator](https://humanitec.com/) - Dynamic Internal Developer Platform orchestrator.
 - [Kratix](https://kratix.io/) - Framework for building platforms using Kubernetes.
 - [Otomi](https://otomi.io/) - Self-hosted PaaS for Kubernetes.
+- [Peon](https://peon.sh/) - Open-source self-hosted Docker PaaS with project RBAC, audit logs, and MCP ([GitHub](https://github.com/Peon-sh/Peon)).
 - [KubeVela](https://kubevela.io/) - Application delivery platform based on OAM.
 - [Gimlet](https://gimlet.io/) - Application deployment platform with GitOps.
 - [Qovery](https://www.qovery.com/) - Platform to deploy applications on AWS, GCP, Azure.
